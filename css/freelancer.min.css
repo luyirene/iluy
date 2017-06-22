@@ -118,7 +118,7 @@ header.masthead{
   text-align:left;
   color: #ffffff;
   background-color: #999999;
-  background-image: url('img/hero.png');
+  background-image: url('../img/hero.png');
 }
 
 header.masthead .container{padding-top:100px;
@@ -370,8 +370,6 @@ header.masthead .intro-text .skills{
 
 #about h4{
   letter-spacing: 2px;
- 
-
   font-family: 'Roboto', Arial, sans-serif;
 }
 
