@@ -171,7 +171,7 @@ header.masthead .intro-text .skills{
 #portfolio .portfolio-item{
   width: 100%;
   height:100%;
-  border-radius:20px;
+  border-radius:200px;
 }
 #portfolio .portfolio-item .portfolio-link{
   position:relative;
@@ -190,6 +190,7 @@ header.masthead .intro-text .skills{
   transition:all ease .5s;
   opacity:0;
   background-color:#333333;
+  border-radius: 200px;
   }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover{
@@ -222,7 +223,7 @@ header.masthead .intro-text .skills{
   padding:0;
   text-align:center;
   border:none;
-  border-radius:20px;
+  border-radius:200px;
   background-clip:border-box;
   -webkit-box-shadow:none;
   box-shadow:none}
