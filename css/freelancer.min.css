@@ -20,6 +20,11 @@ text-transform:uppercase}
 .img-centered{margin:0 auto}
 section{padding:75px 0 50px 0}
 section h2{font-size:3em;margin:0}
+section.bio{color:#000000;background:#ffffff}
+section.bio h4{
+
+}
+
 section.success{color:#fff;background:#000000}
 
 @media (max-width:767px){
@@ -371,6 +376,7 @@ letter-spacing: 1px;}
 #about h4{
   letter-spacing: 2px;
   font-family: 'Roboto', Arial, sans-serif;
+
 }
 
 
